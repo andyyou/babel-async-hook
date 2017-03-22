@@ -1,0 +1,19 @@
+{
+  "name": "babel-async-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inde.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-plugin-transform-async-to-generator": "^6.22.0",
+    "babel-register": "^6.24.0"
+  }
+}
